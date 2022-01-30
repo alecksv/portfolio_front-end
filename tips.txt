@@ -1,0 +1,6 @@
+sass/scss 
+1. node.js (if don't install)
+2. npm install -g sass
+3. sass --version
+4. sass --watch scss/style.scss:css/style.css (ввести в терминал/следит за файлом в папке scss и компилирует в css автоматически)
+5. CTRL+C остановить слежку.
